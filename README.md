@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venkatmanavarthi
+- 👋 Hi, I’m <h1>@venkatmanavarthi</h1>
 - 👀 I’m interested in Developing Mobile Applications(Swift, Flutter), Data Analyst and Data Engineering 
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on new mobile applications ideas
