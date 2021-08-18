@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Mobile Applications(Swift, Flutter), Data Analyst and Data Engineering 
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on new mobile applications ideas
-- 📫 How to reach me manavarthivenkat@icloud.com or <a href="linkedin.com/in/manavarthi-venkat-rao">LinkedIn</a>
+- 📫 How to reach me manavarthivenkat@icloud.com or <a href="https://www.linkedin.com/in/manavarthi-venkat-rao/" target="_blank" >LinkedIn</a>
 
 <!---
 venkatmanavarthi/venkatmanavarthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
