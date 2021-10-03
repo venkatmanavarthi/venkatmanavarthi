@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <h1>@venkatmanavarthi</h1>
 - 👀 I’m interested in Developing Mobile Applications(Swift, Flutter), Data Analyst and Data Engineering 
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on new mobile applications ideas
+- 💞️ I’m looking to collaborate on Challenging Opportunities
 - 📫 How to reach me manavarthivenkat@icloud.com or <a href="https://www.linkedin.com/in/manavarthi-venkat-rao/" target="_blank" >LinkedIn</a>
 
 <!---
