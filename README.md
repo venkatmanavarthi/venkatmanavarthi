@@ -1,10 +1,7 @@
-- 👋 Hi, I’m <h1>@venkatmanavarthi</h1>
-- 👀 I’m interested in IOS Application Development, Backend, Data Engineering and Machine Learning 
-- 🌱 I’m currently enrolled in MS [Computer Science] at University of Missouri Kansas City
-- 💞️ I’m looking to collaborate on Challenging Opportunities
-- 📫 How to reach me manavarthivenkat@icloud.com or <a href="https://www.linkedin.com/in/manavarthi-venkat-rao/" target="_blank" >LinkedIn</a>
+<h1>👨‍💻 Venkat Manavarthi</h1>
+<strong>Hi there 👋,</strong><br>
+Thank you for visiting my profile. This is a great starting point to learn more about me.
 
-<!---
-venkatmanavarthi/venkatmanavarthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Venkat Rao Manavarthi, Software Engineer with 3+ years of expereicne in 
+
+<a href="https://wwww.venkatmanav.com">My Portfolio</a>
