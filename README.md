@@ -19,5 +19,5 @@
 **Email:** [manavarthivenkat@icloud.com](mailto:manavarthivenkat@icloud.com)  
 **GitHub:** [@venkatmanavarthi](https://github.com/venkatmanavarthi)  
 **LinkedIn:** [linkedin.com/in/venkatrao-manavarthi](https://linkedin.com/in/venkatrao-manavarthi/)  
-**Location:** United States 🇺🇸
+**Location:** Earth 🌍
 
